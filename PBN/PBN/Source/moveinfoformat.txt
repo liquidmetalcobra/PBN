@@ -1,0 +1,3 @@
+name pokedexid nummoves evolve
+[movename movelevel] * <nummoves>
+[evolveName evolveLevel]
