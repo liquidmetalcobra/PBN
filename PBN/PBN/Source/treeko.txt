@@ -1,6 +1,0 @@
-treeko 1 4 1
-leechseed 1
-swag 1
-tackle 2
-spit 4
-grovyle 15

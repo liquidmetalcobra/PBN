@@ -1,3 +1,0 @@
-NumAnimations Width Height
-
-[Speed NumFrames X Y] x NumAnimations
